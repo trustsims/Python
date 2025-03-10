@@ -1,0 +1,12 @@
+course = 'Python For Beginners'
+print(len(course))
+print(course.upper())
+print(course.lower())
+print(course.title())
+print(course.strip())
+print(course.rstrip())
+print(course.lstrip())
+print(course.find('n'))
+print(course.replace('Python For', 'Absolute'))
+print('Python' in course)
+print('Absolute' in course)

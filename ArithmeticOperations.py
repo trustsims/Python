@@ -1,3 +1,4 @@
+#Arithmetics
 print(1+1)  #Addition
 print(3-1)  #Subtraction
 print(2*1)  #Multiplication
